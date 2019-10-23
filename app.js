@@ -26,7 +26,7 @@ const tick = () => {
 
 setInterval(tick, 1000);
 
-const after = new Date('April 06 2020 12:00:00');
+const after = new Date('April 06 2020 00:00:00');
 txtTimer.innerHTML += dateFns.format(after, 'DD/MM/YYYY')
 
 const remaining = t => {
