@@ -1,1 +1,1 @@
-# clockandtimer
+# clock and timer using javaScript
