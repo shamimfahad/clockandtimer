@@ -1,0 +1,31 @@
+body{
+    background: #333;
+}
+.txt {
+    color: rgb(209, 209, 209);
+}
+.showDate{
+    color: rgb(209, 209, 209);
+}
+.clock{
+    font-size: 4em;
+    text-align: center;
+    margin: 50px auto;
+    color: rgb(209, 209, 209);
+    font-family: Arial;
+}
+.timer-clock{
+    font-size: 4em;
+    text-align: center;
+    margin: 50px auto;
+    color: rgb(209, 209, 209);
+    font-family: Arial;
+}
+.clock span{
+    padding: 20px;
+    background: #444;
+}
+.timer-clock span{
+    padding: 20px;
+    background: #444;
+}
